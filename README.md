@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**MicinLovers78/MicinLovers78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kenalin aku Dewa Komang Revan Hastina Triantara yang akrab disapa Revan
+Saya adalah Mahasiswa Teknologi Informasi dari Fakultas Teknik, Universitas Udayana
 
-Here are some ideas to get you started:
+Saya memiliki ketertarikan dibidang:
+💻 Pemrograman (C, C++)
+📊 Database 
+🤖 Internet of Things 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Person
+Email: putusukarata1@gmail.com
+Instagram: @revnhas
+
+Stay Focused 
